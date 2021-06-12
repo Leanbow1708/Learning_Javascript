@@ -17,3 +17,5 @@ const obj  = {
 // here obj is const so we can't assign new value obj.name is not const so it can be changed
 obj.age = 22// we can add properties
 delete obj.age// we can also delete the properties 
+
+
